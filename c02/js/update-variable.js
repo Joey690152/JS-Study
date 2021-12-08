@@ -12,5 +12,5 @@ shipping = true;
 var elStock = document.getElementById('stock');
 elStock.className = inStock;
 
-var elShip = Document.getElementById('shipping');
+var elShip = document.getElementById('shipping');
 elShip.className = shipping;
